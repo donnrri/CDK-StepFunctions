@@ -1,0 +1,19 @@
+{
+  "name": "cdk-stepfunctions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donnrri/CDK-StepFunctions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donnrri/CDK-StepFunctions/issues"
+  },
+  "homepage": "https://github.com/donnrri/CDK-StepFunctions#readme"
+}
